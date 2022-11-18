@@ -45,4 +45,4 @@ def spamForm(url, responseCount):
         print(str(i) + ' response(s) sent!')
     print('done sending responses')
 
-spamForm('https://docs.google.com/forms/d/e/1FAIpQLSfizuLrxRVxct-KgN6ust-TGedrqgUWpnNxZQn2OhUVDQPBxw/viewform', 100)
+spamForm('urlhere', 100)
